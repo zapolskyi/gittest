@@ -1,0 +1,11 @@
+.header{
+  background-color: purple;
+  text-align: center;
+  padding: 40px;
+}
+
+.header__title{
+  font-size: 42px;
+  color: #fff;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
